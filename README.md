@@ -1,5 +1,5 @@
 # updated-portifolio
-## Added functionality
-## added email
-## added links to projects
-## added links to linkdin and github
+## Added links to Project 2 (Heroku and Github)
+## Added links for other homeworks (github and heroku)
+## pinned projects and 2 homeworks on github front page
+## added readme
